@@ -21,7 +21,7 @@ _________________________________________________________________
 ### Files included
 
 | Files included | Description |
-| :---                     |     :---                  |    :--- |
+| :---                     |  :---  |
  
 | IMG|  the data images folder , you can freely to use|
 | driving_log.csv|  the driving log contain images pathes and the car telemetry |
