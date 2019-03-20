@@ -30,6 +30,7 @@ _________________________________________________________________
 
 _________________________________________________________________
 ### augmenting images
+| :---:                     |
 | ![alt text](https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/Brightness.png) |
 | ![alt text](https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/Flipping.png) |
 | ![alt text](https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/Panned .png) |
