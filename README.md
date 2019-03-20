@@ -13,9 +13,9 @@ The network is based on The NVIDIA model, which has been proven to work in this 
 As image processing is involved, the model is using convolutional layers for automated feature engineering.
 
 
-| Left-IMG | Centerleft-IMG | Right-IMG |
+| Left-IMG | Center-IMG | Right-IMG |
 | :---         |     :---:      |          ---: |
-| ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/center_2019_02_23_20_23_56_553.jpg)   | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/Center_2019_02_23_20_23_56_553.jpg)     | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/right_2019_02_23_20_23_56_553.jpg)    |
+| ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/left_2019_02_23_20_23_56_553.jpg)   | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/center_2019_02_23_20_23_56_553.jpg)     | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/right_2019_02_23_20_23_56_553.jpg)    |
   
 
 | Layer (type)           | Output Shape            | Param # |
