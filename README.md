@@ -4,7 +4,7 @@
 [![A self-driving car using behavioral cloning](https://github.com/seraj94ai/Self-driving/blob/master/scene00061.png)](https://youtu.be/T-gVwg90spc)
 
 
-Project Description
+## Project Description
 In this project, I use a neural network to clone car driving behavior. It is a supervised regression problem between the car steering angles and the road images in front of a car.
 
 Those images were taken from three different camera angles (from the center, the left and the right of the car).
@@ -20,17 +20,28 @@ As image processing is involved, the model is using convolutional layers for aut
  
  _________________________________________________________________   
 
-###Files included
-IMG the data images folder , you can freely to use
-driving_log.csv the driving log contain images pathes and the car telemetry  
-self_driving.ipynb The script used to create and train the model, and provide useful functionalities (i.e. image preprocessing and augumentation).
-drive.py The script to drive the car. You can feel free to resubmit the original drive.py or make modifications and submit your modified version.
-model.h5 The model weights.
+### Files included
+1- 
+2-  
+
+ 
+ 
+
+
+| Layer (type)             | Output Shape              | Param # |
+| :---                     |     :---                  |    :--- |
+ 
+| IMG|  the data images folder , you can freely to use|
+| driving_log.csv|  the driving log contain images pathes and the car telemetry |
+| IMG        | self_driving.ipynb The script used to create and train the model, and provide useful functionalities (i.e. image preprocessing and augumentation).|
+| drive.py        | The script to drive the car. You can feel free to resubmit the original drive.py or make modifications and submit your modified version.|
+| model.h5        | The model weights|
+
 _________________________________________________________________
 ### Model Architecture Design
 
-| Layer (type)           | Output Shape            | Param # |
-| :---                     |     :---                 |    :--- |
+| Layer (type)             | Output Shape              | Param # |
+| :---                     |     :---                  |    :--- |
 | conv2d_6 (Conv2D)        | (None, 31, 98, 24)        | 1824    |
 | conv2d_7 (Conv2D)        | (None, 14, 47, 36)        |21636    |
 | conv2d_8 (Conv2D)        | (None, 5, 22, 48)         |43248    |
