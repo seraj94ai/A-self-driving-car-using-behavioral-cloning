@@ -25,7 +25,7 @@ _________________________________________________________________
 | IMG|  the data images folder , you can freely to use|
 | driving_log.csv|the driving log contain images pathes and the car telemetry |
 | self_driving.ipynb  |The script used to create and train the model, and provide useful functionalities (i.e. image preprocessing and augumentation).|
-| drive.py        | The script to drive the car. You can feel free to resubmit the original drive.py or make modifications and submit your modified version.|
+| drive.py        | The script to drive the car.|
 | model.h5        | The model weights|
 
 _________________________________________________________________
