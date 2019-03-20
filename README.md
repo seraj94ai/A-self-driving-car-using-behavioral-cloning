@@ -1,4 +1,5 @@
-# Self-driving
+# self-driving car using behavioral cloning
+
 ## youtube tutorial
 [![A self-driving car using behavioral cloning](https://github.com/seraj94ai/Self-driving/blob/master/scene00061.png)](https://youtu.be/T-gVwg90spc)
 
@@ -16,8 +17,12 @@ As image processing is involved, the model is using convolutional layers for aut
 | Left-IMG | Center-IMG | Right-IMG |
 | :---         |     :---:      |          ---: |
 | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/left_2019_02_23_20_23_56_553.jpg)   | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/center_2019_02_23_20_23_56_553.jpg)     | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/right_2019_02_23_20_23_56_553.jpg)    |
-  
+ 
+ _________________________________________________________________   
+=================================================================
+Model Architecture Design
 
+#
 | Layer (type)           | Output Shape            | Param # |
 | :---                     |     :---                 |    :--- |
 | conv2d_6 (Conv2D)        | (None, 31, 98, 24)        | 1824    |
