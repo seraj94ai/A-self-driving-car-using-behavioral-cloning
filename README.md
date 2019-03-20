@@ -1,4 +1,4 @@
-# self-driving car using behavioral cloning
+# A self-driving car using behavioral cloning
 
 ## youtube tutorial
 [![A self-driving car using behavioral cloning](https://github.com/seraj94ai/Self-driving/blob/master/scene00061.png)](https://youtu.be/T-gVwg90spc)
