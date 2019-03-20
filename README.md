@@ -18,7 +18,7 @@ As image processing is involved, the model is using convolutional layers for aut
 | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/center_2019_02_23_20_23_56_553.jpg)   | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/Center_2019_02_23_20_23_56_553.jpg)     | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/right_2019_02_23_20_23_56_553.jpg)    |
   
 
-###| Layer (type)             | Output Shape              | Param # |
+| ##Layer (type)           | ##Output Shape            | ##Param # |
 | :---                     |     :---:                 |    ---: |
 | conv2d_6 (Conv2D)        | (None, 31, 98, 24)        | 1824    |
 | conv2d_7 (Conv2D)        | (None, 14, 47, 36)        |21636    |
