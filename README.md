@@ -20,7 +20,7 @@ As image processing is involved, the model is using convolutional layers for aut
  
  _________________________________________________________________   
 
-###Model Architecture Design
+### Model Architecture Design
 
 | Layer (type)           | Output Shape            | Param # |
 | :---                     |     :---                 |    :--- |
