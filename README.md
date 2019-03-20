@@ -22,7 +22,6 @@ _________________________________________________________________
 
 | Files included | Description |
 | :---                     |  :---  |
- 
 | IMG|  the data images folder , you can freely to use|
 | driving_log.csv|  the driving log contain images pathes and the car telemetry |
 | IMG        | self_driving.ipynb The script used to create and train the model, and provide useful functionalities (i.e. image preprocessing and augumentation).|
