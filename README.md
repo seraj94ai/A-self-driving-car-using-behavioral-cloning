@@ -34,7 +34,7 @@ _________________________________________________________________
 | :---:                     |
 | ![alt text](https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/Brightness.png) |
 | ![alt text](https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/Flipping.png) |
-| ![alt text](https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/Panned.png) |
+| ![alt text](https://https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/Panned%20.png) |
 | ![alt text](https://github.com/seraj94ai/A-self-driving-car-using-behavioral-cloning/blob/master/zoom.png) |
 
 _________________________________________________________________
