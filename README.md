@@ -9,7 +9,7 @@ In this project, I use a neural network to clone car driving behavior. It is a s
 
 Those images were taken from three different camera angles (from the center, the left and the right of the car).
 
-The network is based on The NVIDIA model, which has been proven to work in this problem domain.
+The network is based on The [NVIDIA model](https://devblogs.nvidia.com/deep-learning-self-driving-cars/), which has been proven to work in this problem domain.
 
 As image processing is involved, the model is using convolutional layers for automated feature engineering.
 
