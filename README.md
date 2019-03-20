@@ -9,26 +9,18 @@ In this project, I use a neural network to clone car driving behavior. It is a s
 
 Those images were taken from three different camera angles (from the center, the left and the right of the car).
 
-The network is based on The [NVIDIA model](https://devblogs.nvidia.com/deep-learning-self-driving-cars/), which has been proven to work in this problem domain.
+The network is based on The [NVIDIA model](https://devblogs.nvidia.com/deep-learning-self-driving-cars/), which has been proven to work in this problem domain.As image processing is involved, the model is using convolutional layers for automated feature engineering.
 
-As image processing is involved, the model is using convolutional layers for automated feature engineering.
-
-
-| Files included | Description |
+_________________________________________________________________
+| left-cam |   center-cam           | right-cam |
 | :---         |     :---:      |          ---: |
 | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/left_2019_02_23_20_23_56_553.jpg)   | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/center_2019_02_23_20_23_56_553.jpg)     | ![alt text](https://github.com/seraj94ai/Self-driving/blob/master/IMG/right_2019_02_23_20_23_56_553.jpg)    |
  
  _________________________________________________________________   
 
 ### Files included
-1- 
-2-  
 
- 
- 
-
-
-| Layer (type)             | Output Shape              | Param # |
+| Files included | Description |
 | :---                     |     :---                  |    :--- |
  
 | IMG|  the data images folder , you can freely to use|
